@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Pedro Pires. A software engineering student at Federal University of Goiás and a Junior Developer at Industry Care.
+- 👋 Hi, I’m Pedro Pires. A software engineering student at Federal University of Goiás and Midlevel Developer at TEx Tecnologia.
 
 - 🌱 I’m currently learning Python with Django Framework and SQL with Postgres
 
