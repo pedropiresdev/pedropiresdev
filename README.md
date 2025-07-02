@@ -1,63 +1,63 @@
 # Pedro Pires 👋
 
-Olá! Sou Pedro Pires, um Desenvolvedor de Software Sênior com 6 anos de experiência no ciclo de vida de desenvolvimento de software. Sou apaixonado por construir soluções escaláveis e de alta performance, especializado em Python e arquitetura de microsserviços. 🚀
+Hello! I'm Pedro Pires, a Senior Software Developer with 6 years of experience in the software development life cycle. I'm passionate about building scalable and high-performance solutions, specializing in Python and microservices architecture. 🚀
 
 ---
 
-## Sobre Mim 👨‍💻
+## About Me 👨‍💻
 
-Tenho uma sólida formação em arquitetura de microsserviços, processamento de dados e otimização de sistemas. Minha carreira abrange startups e grandes empresas, onde liderei projetos, contribuí para decisões arquitetônicas e treinei equipes. Meu foco é sempre otimizar processos e entregar valor por meio de tecnologias inovadoras. ✨
-
----
-
-## Especialidades ✨
-
-* **Microsserviços:** Projetando e implementando arquiteturas de microsserviços robustas. 🏗️
-* **Pipelines de Dados:** Desenvolvendo pipelines eficientes para processamento e extração de dados. 📊
-* **RPA (Automação Robótica de Processos):** Automatizando processos de negócios críticos. 🤖
-* **Desenvolvimento Python:** Construindo soluções escaláveis e de alta performance com Python. 🐍
-* **Otimização de Sistemas:** Identificando e resolvendo dívidas técnicas, aprimorando a eficiência do sistema. ⚙️
-* **Liderança e Treinamento de Equipes:** Liderando e orientando equipes de desenvolvimento, acelerando a integração e a produtividade. 🧑‍🤝‍🧑
+I have a solid background in microservices architecture, data processing, and system optimization. My career spans startups and large companies, where I've led projects, contributed to architectural decisions, and trained teams. My focus is always on optimizing processes and delivering value through innovative technologies. ✨
 
 ---
 
-## Experiência Profissional 💼
+## Expertise ✨
 
-### Software Developer Specialist I @ Serasa Experian (Novembro de 2024 - Junho de 2025)
-* Liderei o treinamento de novos funcionários, acelerando a integração e a produtividade da equipe. 📈
-* Defini a arquitetura da nova service mesh de processamento de dados do squad. 🛠️
-* Desenvolvi documentação técnica detalhada e propus soluções para dívidas técnicas. 📝
-* Otimizei a manipulação e extração de grandes volumes de dados usando Pandas e DataBricks. 🚀
-
-### Senior Software Developer @ TEX (Novembro de 2021 - Novembro de 2024)
-* Desenhei seis robôs de web scraping para seguradoras usando Python, Nameko e Scrapy, automatizando pipelines de processos críticos. 🕸️
-* Desenvolvi seis microsserviços de processamento de arquivos de alta vazão com FastAPI, Python, Nameko, MySQL e Pandas. ⚡
-* Implementei uma arquitetura com inteligência de dados e paralelismo assíncrono para ingestão e persistência eficiente de dados. 🧠
+* **Microservices:** Designing and implementing robust microservices architectures. 🏗️
+* **Data Pipelines:** Developing efficient data processing and extraction pipelines. 📊
+* **RPA (Robotic Process Automation):** Automating critical business processes. 🤖
+* **Python Development:** Building scalable and high-performance solutions with Python. 🐍
+* **System Optimization:** Identifying and resolving technical debt, enhancing system efficiency. ⚙️
+* **Team Leadership & Training:** Leading and mentoring development teams, accelerating integration and productivity. 🧑‍🤝‍🧑
 
 ---
 
-## Formação Acadêmica 🎓
+## Professional Experience 💼
 
-* **Engenharia de Software (TI)** - Universidade Federal de Goiás (2015-2021) 🏛️
+### Software Developer Specialist I @ Serasa Experian (November 2024 - June 2025)
+* Led the training of new employees, accelerating team integration and productivity. 📈
+* Defined the architecture of the squad's new data processing service mesh. 🛠️
+* Developed detailed technical documentation and proposed solutions for technical debt. 📝
+* Optimized data manipulation and extraction using Pandas and DataBricks. 🚀
+
+### Senior Software Developer @ TEX (November 2021 - November 2024)
+* Designed six web scraping robots for insurance companies using Python, Nameko, and Scrapy, automating critical process pipelines. 🕸️
+* Developed six high-throughput file processing microservices with FastAPI, Python, Nameko, MySQL, and Pandas. ⚡
+* Implemented an architecture with data intelligence and asynchronous parallelism for efficient data ingestion and persistence. 🧠
 
 ---
 
-## Certificações 📜
+## Education 🎓
 
-* Introdução ao Django 3: Modelo, Rotas e Views
-* HTML5 e CSS3 parte 1: A primeira página da Web
-* Python 3 parte 1: Introdução à nova versão da linguagem
-* HTML5 e CSS3 parte 2: Posicionamento, listas e navegação
-* HTML5 e CSS3 parte 4: Avançando no CSS
+* **Software Engineering (IT)** - Universidade Federal de Goiás (2015-2021) 🏛️
 
 ---
 
-## Conecte-se Comigo! 🤝
+## Certifications 📜
+
+* Introduction to Django 3: Model, Routes and Views
+* HTML5 and CSS3 Part 1: The First Web Page
+* Python 3 Part 1: Introduction to the New Version of the Language
+* HTML5 and CSS3 Part 2: Positioning, Lists and Navigation
+* HTML5 and CSS3 Part 4: Advancing in CSS
+
+---
+
+## Connect with me! 🤝
 
 * **LinkedIn:** [www.linkedin.com/in/pedropiresdev](www.linkedin.com/in/pedropiresdev)
 * **Email:** pedropires.py@gmail.com
-* **Celular:** (62) 996462357
+* **Mobile:** (62) 996462357
 
 ---
 
-Sinta-se à vontade para explorar meus repositórios para ver meu trabalho! 😊
+Feel free to explore my repositories to see my work! 😊
